@@ -1,5 +1,5 @@
 FROM node:12
-## Create app directory
+### Create app directory
 WORKDIR /usr/src/nodejsapp
 
 # Install app dependencies
