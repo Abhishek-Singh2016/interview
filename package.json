@@ -1,0 +1,14 @@
+{
+  "name": "docker_mp_app",
+  "version": "1.0.0",
+  "description": "Node.js on Docker",
+  "author": "Abhishek Singh <abhisheksingh050593@gmail.com>",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.1",
+    "package.json": "^2.0.1"
+  }
+}
